@@ -8,7 +8,6 @@
   # Figma 
   https://www.figma.com/community/file/1590093063312055206
 
-  # Running the code
-  Run `npm i` to install the dependencies.
-  Run `npm run dev` to start the development server.
+  # Video Link
+  https://www.loom.com/share/003bf04e33554fcb91c3791188b95d53
   
